@@ -1,5 +1,5 @@
-# Um projeto baseado no Linktree
-## Demonstration
+# Um projeto baseado no Linktree.
+## Demonstração
 <img src="./img/01.png" alt="Exemplo 1">
 <img src="./img/02.png" alt="Exemplo 2">
 
